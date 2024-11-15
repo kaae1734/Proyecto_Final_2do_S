@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05EF9D6F-9A9F-46BD-9687-9740960C3B4D}|Avancep1.csproj|C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EF9D6F-9A9F-46BD-9687-9740960C3B4D}|Avancep1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EF9D6F-9A9F-46BD-9687-9740960C3B4D}|Avancep1.csproj|c:\\users\\knnth\\desktop\\proyecto final\\avancep1\\formulario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EF9D6F-9A9F-46BD-9687-9740960C3B4D}|Avancep1.csproj|solutionrelative:formulario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EF9D6F-9A9F-46BD-9687-9740960C3B4D}|Avancep1.csproj|C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05EF9D6F-9A9F-46BD-9687-9740960C3B4D}|Avancep1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EF9D6F-9A9F-46BD-9687-9740960C3B4D}|Avancep1.csproj|C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\formulario\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05EF9D6F-9A9F-46BD-9687-9740960C3B4D}|Avancep1.csproj|solutionrelative:formulario\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EF9D6F-9A9F-46BD-9687-9740960C3B4D}|Avancep1.csproj|C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\formulario\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05EF9D6F-9A9F-46BD-9687-9740960C3B4D}|Avancep1.csproj|solutionrelative:formulario\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05EF9D6F-9A9F-46BD-9687-9740960C3B4D}|Avancep1.csproj|C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\formulario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{05EF9D6F-9A9F-46BD-9687-9740960C3B4D}|Avancep1.csproj|solutionrelative:formulario\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\Formulario\\Form3.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form3.cs",
+              "ToolTip": "C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\Formulario\\Form3.cs",
+              "RelativeToolTip": "Formulario\\Form3.cs",
+              "ViewState": "AgIAACsAAAAAAAAJqwArwD4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T04:35:23.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form3.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\Formulario\\Form3.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form3.cs",
+              "ToolTip": "C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\Formulario\\Form3.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formulario\\Form3.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:36:11.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\Formulario\\Form2.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form2.cs",
+              "ToolTip": "C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\Formulario\\Form2.cs",
+              "RelativeToolTip": "Formulario\\Form2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T03:18:30.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form2.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\Formulario\\Form2.cs",
+              "RelativeDocumentMoniker": "Formulario\\Form2.cs",
+              "ToolTip": "C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\Formulario\\Form2.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Formulario\\Form2.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:56:23.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:19:05.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\knnth\\Desktop\\Proyecto final\\Avancep1\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:16:19.606Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
